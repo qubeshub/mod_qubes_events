@@ -1,0 +1,8 @@
+{
+	"name": "qubeshub/mod_qubes_events",
+	"description": "Displays QUBES Happening events, consisting mainly of faculty mentoring networks.",
+	"type": "hubzero-module",
+	"extra": {
+	    "install-directory": "/modules/mod_qubes_events"
+	}
+}
